@@ -3,5 +3,9 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urbanyl&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00FFAA&line=FF007F" width="90%"/>
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3c1dHpqN2g4dWIyZ3JmcWk1cWhtdWd5b2l6ZmpmZGZkaGZkcGZqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSx2P6FfK5tKXy/giphy.gif" width="100%"/>
 </p>
